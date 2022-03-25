@@ -3,4 +3,5 @@ function convertToF(celsius) {
   return fahrenheit;
 }
 
-convertToF(30);
+let result = convertToF(30);
+console.log(result);
